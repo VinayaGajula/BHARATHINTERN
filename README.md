@@ -6,4 +6,4 @@ portfolio:  https://vinayagajula.github.io/portfoliio/
  
 TASK3: Homepage of Netflix A simple website having similar homepage that of Netflix using HTML, and CSS. 
 
-Netflix Home page:    https://vinayagajula.github.io/BHARATHINTERN/
+Netflix Home page:    https://vinayagajula.github.io/netfllix/
